@@ -1,9 +1,9 @@
 ### <img src="https://api.iconify.design/mdi/information.svg?color=%23ff7b72" width="24" align="top" /> About me
-   <img src="https://api.iconify.design/icon-park-twotone/bachelor-cap-one.svg?color=%2358a6ff" width="18" /> Studying **Software Engineering** at HCMUTE
-   <img src="https://api.iconify.design/carbon/in-progress.svg?color=%2358a6ff" width="18" /> Currently working on **cunguoimoita.com**, a secondhand & collectibles marketplace with item-swap and escrow
-   <img src="https://api.iconify.design/arcticons/magnifier-1.svg?color=%2358a6ff" width="18" /> Exploring **Computer Vision** (YOLO, OpenCV) and AI with Python
-   <img src="https://api.iconify.design/fluent/thumb-like-24-regular.svg?color=%2358a6ff" width="18" /> Interested in web apps, game development & computer vision projects (C#, turn-based & RPG systems)
-   <img src="https://api.iconify.design/boxicons/contact-book.svg?color=%2358a6ff" width="18" /> Reach me at: lefat116.work@gmail.com
+   <img src="https://api.iconify.design/icon-park-twotone/bachelor-cap-one.svg?color=%2358a6ff" width="18" /> Studying **Software Engineering** at HCMUTE\n
+   <img src="https://api.iconify.design/carbon/in-progress.svg?color=%2358a6ff" width="18" /> Currently working on **cunguoimoita.com**, a secondhand & collectibles marketplace with item-swap and escrow\n
+   <img src="https://api.iconify.design/arcticons/magnifier-1.svg?color=%2358a6ff" width="18" /> Exploring **Computer Vision** (YOLO, OpenCV) and AI with Python\n
+   <img src="https://api.iconify.design/fluent/thumb-like-24-regular.svg?color=%2358a6ff" width="18" /> Interested in web apps, game development & computer vision projects (C#, turn-based & RPG systems)\n
+   <img src="https://api.iconify.design/boxicons/contact-book.svg?color=%2358a6ff" width="18" /> Reach me at: lefat116.work@gmail.com\n
 
 ### <img src="https://api.iconify.design/andrsrxn/tools.svg?color=%23ff7b72" width="24" align="top" /> Tech stack
 <p>
