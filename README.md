@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi there o/</h1>
+<p align="center">Software Engineering student @ HCMUTE · Building web apps, games & computer vision projects</p>
 
-<!--
-**f4t2k6/f4t2k6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About me
+- https://api.iconify.design/icon-park-twotone/bachelor-cap-one.svg Studying **Software Engineering** at HCMUTE
+- https://api.iconify.design/carbon/in-progress.svg Currently working on **cunguoimoita.com**, a secondhand & collectibles marketplace with item-swap and escrow
+- https://api.iconify.design/arcticons/magnifier-1.svg Exploring **Computer Vision** (YOLO, OpenCV) and AI with Python
+- https://api.iconify.design/fluent/thumb-like-24-regular.svg Interested in game development (C#, turn-based & RPG systems)
+- https://api.iconify.design/boxicons/contact-book.svg Reach me at: your-email@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech stack
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cs,js,python,html,css,postgres,opencv,git,idea,vscode&perline=11" />
+</p>
+
+### 📌 Featured projects
+| Project | Description | Tech |
+|---|---|---|
+| [cunguoimoita.com](https://github.com/f4t2k6/cunguoimoita.com) | Secondhand marketplace with swap & escrow | Java, JSP/Servlet |
+| [OOP-Turn-Based-Battle-System](https://github.com/f4t2k6/OOP-Turn-Based-Battle-System) | Turn-based battle system applying OOP | C# |
+| [2048-Web-Game](https://github.com/f4t2k6/2048-Web-Game) | Classic 2048 in the browser | JavaScript |
+| [Data-Structures-Visualization](https://github.com/f4t2k6/Data-Structures-Visualization) | Interactive DS visualizer | JavaScript |
+
+### 📊 GitHub stats
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=f4t2k6&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4t2k6&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
