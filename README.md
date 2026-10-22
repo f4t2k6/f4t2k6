@@ -19,8 +19,8 @@
 | Project | Description | Tech |
 |---|---|---|
 | [cunguoimoita.com](https://github.com/f4t2k6/cunguoimoita.com) | Secondhand marketplace with swap & escrow | Java, JSP/Servlet |
+| [Smart Unmarked Parking Assistant](https://github.com/MaiVietThanh/DIP_FinalProject_2026-2027) | YOLO-based parking spaces detection in unmarked lots | Python |
 | [OOP-Turn-Based-Battle-System](https://github.com/f4t2k6/OOP-Turn-Based-Battle-System) | Turn-based battle system applying OOP | C# |
-| [2048-Web-Game](https://github.com/f4t2k6/2048-Web-Game) | Classic 2048 in the browser | JavaScript |
 | [Data-Structures-Visualization](https://github.com/f4t2k6/Data-Structures-Visualization) | Interactive DS visualizer | JavaScript |
 
 ### 📊 GitHub stats
