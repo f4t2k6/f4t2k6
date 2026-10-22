@@ -23,7 +23,7 @@
 | [OOP-Turn-Based-Battle-System](https://github.com/f4t2k6/OOP-Turn-Based-Battle-System) | Turn-based battle system applying OOP | C# |
 | [Data-Structures-Visualization](https://github.com/f4t2k6/Data-Structures-Visualization) | Interactive DS visualizer | JavaScript |
 
-### 📊 GitHub stats
+### <img src="https://api.iconify.design/famicons/stats-chart.svg?color=%23ff7b72" width="24" align="top" /> GitHub stats
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=f4t2k6&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4t2k6&layout=compact&theme=tokyonight&hide_border=true" />
